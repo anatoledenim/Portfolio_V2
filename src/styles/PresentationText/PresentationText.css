@@ -1,0 +1,14 @@
+@font-face {
+  font-family: modernaesthetic;
+  src: url(/font/MODERNAESTHETIC-DEMOVERSION-REGULAR.OTF);
+}
+.presentation {
+  position: absolute;
+  top: 0px;
+  right: 15px;
+  width: 660px;
+}
+.presentation-text {
+  font-size: 18px;
+  font-family: modernaesthetic;
+}/*# sourceMappingURL=PresentationText.css.map */

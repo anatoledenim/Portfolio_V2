@@ -1,0 +1,24 @@
+@font-face {
+    font-family: barcade;
+    src: url(/font/BARCADE.TTF);
+}
+
+.home {
+    &-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    &-bottom {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    &-cvlink {
+        font-size: 30px;
+        margin: 250px 0 0 50px;
+        font-family: barcade;
+        text-decoration: none;
+        color: #1e1e1e;
+    }
+}

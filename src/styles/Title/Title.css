@@ -1,0 +1,44 @@
+@font-face {
+  font-family: modernaesthetic;
+  src: url(/font/MODERNAESTHETIC-DEMOVERSION-REGULAR.OTF);
+}
+@font-face {
+  font-family: metrophotograph;
+  src: url(/font/METROPHOTOGRAPH-DEMOVERSION-REGULAR.OTF);
+}
+.title {
+  margin-top: 35px;
+}
+.title-first {
+  margin: 0;
+  margin-bottom: -50px;
+  font-size: 170px;
+  color: #1e1e1e;
+  font-family: metrophotograph;
+  font-weight: 200;
+}
+.title-div {
+  display: flex;
+}
+.title-second {
+  margin: 0;
+  font-size: 120px;
+  color: #1e1e1e;
+  margin-right: 35px;
+  font-family: metrophotograph;
+  font-weight: 200;
+}
+.title-separation {
+  font-size: 120px;
+  color: #1e1e1e;
+  font-family: metrophotograph;
+}
+.title-third {
+  margin: 0;
+  font-size: 70px;
+  color: #1e1e1e;
+  margin-left: 35px;
+  margin-top: 20px;
+  font-family: modernaesthetic;
+  font-weight: 200;
+}/*# sourceMappingURL=Title.css.map */

@@ -1,0 +1,36 @@
+@font-face {
+  font-family: modernaesthetic;
+  src: url(/font/MODERNAESTHETIC-DEMOVERSION-REGULAR.OTF);
+}
+.picture {
+  margin: 0 15px 15px 0;
+  position: relative;
+  width: 358px;
+  height: 358px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.picture-pic {
+  width: 335px;
+  height: 335px;
+}
+.picture-firsttext {
+  position: absolute;
+  top: 5px;
+  left: 30px;
+  font-size: 14px;
+  color: #1e1e1e;
+  font-family: modernaesthetic;
+  margin: 0;
+}
+.picture-secondtext {
+  font-size: 14px;
+  margin: 0;
+  position: absolute;
+  top: 70px;
+  left: -57px;
+  transform: rotate(270deg);
+  color: #1e1e1e;
+  font-family: modernaesthetic;
+}/*# sourceMappingURL=Picture.css.map */
